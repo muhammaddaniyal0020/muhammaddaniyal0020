@@ -1,12 +1,7 @@
-<!-- Header with Company Title - Gradient Blue/Purple -->
+<!-- Header with Company Title - Gradient Blue/Purple Static Badge -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=1000&color=6C2BD9&background=4A90E2&center=true&vCenter=true&width=600&height=50&lines=FOUNDER+%40+D%26H+IT+LABS+(PRIVATE)+LIMITED" alt="Founder Badge" />
+  <img src="https://img.shields.io/badge/🏢%20FOUNDER%20%40%20D%26H%20IT%20LABS%20(PRIVATE)%20LIMITED-4A90E2?style=for-the-badge&logo=about.me&logoColor=white&labelColor=6C2BD9" alt="Founder Badge" />
 </p>
-
-<!-- Alternative Static Gradient Badge (if typing SVG doesn't work) -->
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/🏢%20FOUNDER%20%40%20D%26H%20IT%20LABS-4A90E2?style=for-the-badge&logo=about.me&logoColor=white&labelColor=6C2BD9" alt="Founder Badge" />
-</p> -->
 
 <h1 align="center">👨‍💻 Muhammad Daniyal</h1>
 
