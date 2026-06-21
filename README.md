@@ -1,6 +1,11 @@
+<!-- Header with Company Title -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FOUNDER%20%40%20D%26H%20IT%20LABS-FF6B00?style=for-the-badge&logo=about.me&logoColor=white" alt="Founder Badge" />
+</p>
+
 # 👨‍💻 Muhammad Daniyal
 
-> AI Enthusiast | Robotics Developer | Smart Systems Builder | Founder @ D&H IT LABS
+> AI Enthusiast | Robotics Developer | Smart Systems Builder
 
 ---
 
