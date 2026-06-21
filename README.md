@@ -1,6 +1,6 @@
-<!-- Header with Company Title - Simple Dark Blue Box -->
+<!-- Header with Company Title - Simple Dark Green Box -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🏢%20FOUNDER%20%40%20D%26H%20IT%20LABS%20(PRIVATE)%20LIMITED-0A192F?style=for-the-badge&logo=about.me&logoColor=white" alt="Founder Badge" />
+  <img src="https://img.shields.io/badge/🏢%20FOUNDER%20%40%20D%26H%20IT%20LABS%20(PRIVATE)%20LIMITED-0B3B24?style=for-the-badge&logo=about.me&logoColor=white" alt="Founder Badge" />
 </p>
 
 <h1 align="center">👨‍💻 Muhammad Daniyal</h1>
