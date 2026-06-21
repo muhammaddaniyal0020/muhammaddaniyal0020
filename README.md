@@ -1,11 +1,18 @@
-<!-- Header with Company Title -->
+<!-- Header with Company Title - Gradient Blue/Purple -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FOUNDER%20%40%20D%26H%20IT%20LABS-FF6B00?style=for-the-badge&logo=about.me&logoColor=white" alt="Founder Badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=1000&color=6C2BD9&background=4A90E2&center=true&vCenter=true&width=600&height=50&lines=FOUNDER+%40+D%26H+IT+LABS+(PRIVATE)+LIMITED" alt="Founder Badge" />
 </p>
 
-# 👨‍💻 Muhammad Daniyal
+<!-- Alternative Static Gradient Badge (if typing SVG doesn't work) -->
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/🏢%20FOUNDER%20%40%20D%26H%20IT%20LABS-4A90E2?style=for-the-badge&logo=about.me&logoColor=white&labelColor=6C2BD9" alt="Founder Badge" />
+</p> -->
 
-> AI Enthusiast | Robotics Developer | Smart Systems Builder
+<h1 align="center">👨‍💻 Muhammad Daniyal</h1>
+
+<p align="center">
+  <strong>AI Enthusiast | Robotics Developer | Smart Systems Builder</strong>
+</p>
 
 ---
 
@@ -31,6 +38,8 @@ I'm an undergraduate student pursuing a BS in Artificial Intelligence at Gomal U
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🤖 AI & Machine Learning
+![Programming for AI](https://img.shields.io/badge/Programming%20for%20AI-6C2BD9?style=for-the-badge&logo=ai&logoColor=white)
+![AI Development](https://img.shields.io/badge/AI%20Development-4A90E2?style=for-the-badge&logo=ai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)
